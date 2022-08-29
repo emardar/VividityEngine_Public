@@ -1,2 +1,2 @@
 # VividityEngine_Public
-A public version of a Vividity game engine.
+A public version of Vividity game engine.
